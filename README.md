@@ -1,4 +1,4 @@
-### Configuração do n8n
+# My n8n setup
 
 Este repositório contém os arquivos de configuração para executar o n8n com PostgreSQL, ngrok e Ollama usando o Docker Compose.
 
