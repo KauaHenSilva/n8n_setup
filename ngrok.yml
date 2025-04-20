@@ -4,4 +4,4 @@ tunnels:
     n8n:
         proto: http
         addr: n8n:5678
-        domain: badly-innocent-serval.ngrok-free.app
+        domain: {URL_ngrok_domain}
